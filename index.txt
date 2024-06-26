@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> Lesson 18 </title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1 class="One"> My CSS </h1>
+  <div class="Anim"> </div>
+  <div> <img class="Spinner" src="Lesson 18-1.jpg"> </div>
+</body>
+
+</html>
